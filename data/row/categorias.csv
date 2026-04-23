@@ -1,0 +1,6 @@
+id_categoria,nombre_categoria,tipo
+1,Antojos,Variable
+2,Alimentacion,Variable
+3,Celular,Fijo
+4,Transporte,Variable
+5,Entretenimiento,Variable

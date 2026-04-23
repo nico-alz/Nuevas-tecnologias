@@ -1,0 +1,121 @@
+id_gasto,fecha,descripcion,monto,id_categoria,metodo_pago
+1,2024-01-05,Tinto en la esquina,1500,1,efectivo
+2,2024-01-07,Paquete de papitas,2000,1,efectivo
+3,2024-01-10,Recarga celular,10000,3,nequi
+4,2024-01-15,Gaseosa en la tienda,1800,1,efectivo
+5,2024-01-20,Bus al centro,2500,4,efectivo
+6,2024-02-01,Tinto en la esquina,1500,1,efectivo
+7,2024-02-03,,3000,2,efectivo
+8,2024-02-08,Recarga celular,-500,3,nequi
+9,2024-02-10,Almuerzo corriente,12000,2,efectivo
+10,2024-02-15,Paquete de papitas,2000,1,efectivo
+11,2024-02-20,Bus al centro,2500,4,tarjeta
+12,2024-03-01,Tinto doble,3000,1,efectivo
+13,2024-03-05,Almuerzo corriente,12000,2,efectivo
+14,2024-03-05,Almuerzo corriente,12000,2,efectivo
+15,2024-03-10,Recarga celular,10000,3,NEQUI
+16,2024-03-15,Gaseosa en la tienda,99999,1,efectivo
+17,2024-03-18,Bus intermunicipal,8000,4,efectivo
+18,2024-03-22,Snack dulce,1500,1,Efectivo
+19,2024-03-25,,2000,2,
+20,2024-04-01,Tinto en la esquina,1500,1,efectivo
+21,2024-04-05,Almuerzo corriente,13000,2,efectivo
+22,2024-04-10,Recarga celular,10000,3,nequi
+23,2024-04-12,Bus al centro,2500,4,efectivo
+24,2024-04-18,Paquete de papitas,2000,1,efectivo
+25,2024-04-25,Snack dulce,1500,1,efectivo
+26,2024-05-01,  Tinto en la esquina  ,1500,1,EFECTIVO
+27,2024-05-03,Paquete de papitas,2000,1,efectivo
+28,2024-05-05,Bus al centro,2500,4,efectivo
+29,2024-05-08,Almuerzo corriente,12000,2,Efectivo
+30,2024-05-10,Recarga celular,10000,3,nequi
+31,2024-05-12,Gaseosa en la tienda,1800,1,efectivo
+32,2024-05-15,  Snack dulce  ,1500,1,efectivo
+33,2024-05-17,Bus al centro,2500,4,TARJETA
+34,2024-05-20,Tinto en la esquina,1500,1,efectivo
+35,2024-05-22,Almuerzo corriente,13000,2,efectivo
+36,2024-05-25,Paquete de papitas,2000,1,efectivo
+37,2024-05-28,Recarga celular,10000,3,nequi
+38,2024-06-01,Tinto en la esquina,1500,1,efectivo
+39,2024-06-03,Bus intermunicipal,8000,4,efectivo
+40,2024-06-05,Almuerzo corriente,12000,2,efectivo
+41,2024-06-07,Snack dulce,-200,1,efectivo
+42,2024-06-10,Gaseosa en la tienda,1800,1,EFECTIVO
+43,2024-06-12,Bus al centro,2500,4,efectivo
+44,2024-06-15,Tinto doble,3000,1,efectivo
+45,2024-06-17,Recarga celular,10000,3,Nequi
+46,2024-06-20,Almuerzo corriente,12000,2,efectivo
+47,2024-06-22,,1500,1,efectivo
+48,2024-06-25,Paquete de papitas,2000,1,efectivo
+49,2024-06-28,Bus al centro,2500,4,tarjeta
+50,2024-07-01,Tinto en la esquina,1500,1,efectivo
+51,2024-07-03,Almuerzo corriente,13000,2,efectivo
+52,2024-07-05,Snack dulce,1500,1,efectivo
+53,2024-07-08,Recarga celular,10000,3,nequi
+54,2024-07-10,Gaseosa en la tienda,1800,1,efectivo
+55,2024-07-12,Bus al centro,2500,4,EFECTIVO
+56,2024-07-15,Tinto en la esquina,1500,1,efectivo
+57,2024-07-17,Almuerzo corriente,12000,2,efectivo
+58,2024-07-20,Paquete de papitas,2000,1,efectivo
+59,2024-07-22,Bus intermunicipal,8000,4,efectivo
+60,2024-07-25,Recarga celular,10000,3,nequi
+61,2024-07-28,  Snack dulce  ,1500,1,Efectivo
+62,2024-08-01,Tinto doble,3000,1,efectivo
+63,2024-08-03,Almuerzo corriente,12000,2,efectivo
+64,2024-08-05,Gaseosa en la tienda,99999,1,efectivo
+65,2024-08-08,Bus al centro,2500,4,tarjeta
+66,2024-08-10,Tinto en la esquina,1500,1,efectivo
+67,2024-08-12,Recarga celular,10000,3,NEQUI
+68,2024-08-15,Almuerzo corriente,13000,2,efectivo
+69,2024-08-17,,2000,2,
+70,2024-08-20,Paquete de papitas,2000,1,efectivo
+71,2024-08-22,Bus al centro,2500,4,efectivo
+72,2024-08-25,Snack dulce,1500,1,efectivo
+73,2024-08-28,Tinto en la esquina,1500,1,EFECTIVO
+74,2024-09-01,Almuerzo corriente,12000,2,efectivo
+75,2024-09-03,Recarga celular,10000,3,nequi
+76,2024-09-05,Gaseosa en la tienda,1800,1,efectivo
+77,2024-09-08,Bus intermunicipal,8000,4,efectivo
+78,2024-09-10,Tinto doble,3000,1,Efectivo
+79,2024-09-12,Almuerzo corriente,12000,2,efectivo
+80,2024-09-15,Paquete de papitas,-100,1,efectivo
+81,2024-09-17,Bus al centro,2500,4,tarjeta
+82,2024-09-20,Snack dulce,1500,1,efectivo
+83,2024-09-22,Recarga celular,10000,3,nequi
+84,2024-09-25,Tinto en la esquina,1500,1,efectivo
+85,2024-09-28,Almuerzo corriente,13000,2,EFECTIVO
+86,2024-10-01,Gaseosa en la tienda,1800,1,efectivo
+87,2024-10-03,Bus al centro,2500,4,efectivo
+88,2024-10-05,Tinto en la esquina,1500,1,efectivo
+89,2024-10-08,Recarga celular,10000,3,Nequi
+90,2024-10-10,Almuerzo corriente,12000,2,efectivo
+91,2024-10-12,,1500,1,efectivo
+92,2024-10-15,Paquete de papitas,2000,1,EFECTIVO
+93,2024-10-17,Bus intermunicipal,8000,4,efectivo
+94,2024-10-20,Snack dulce,1500,1,efectivo
+95,2024-10-22,Tinto doble,3000,1,efectivo
+96,2024-10-25,Almuerzo corriente,12000,2,efectivo
+97,2024-10-28,Recarga celular,10000,3,nequi
+98,2024-11-01,Gaseosa en la tienda,1800,1,efectivo
+99,2024-11-03,Bus al centro,2500,4,tarjeta
+100,2024-11-05,Tinto en la esquina,1500,1,efectivo
+101,2024-11-07,Almuerzo corriente,13000,2,efectivo
+102,2024-11-10,Paquete de papitas,2000,1,EFECTIVO
+103,2024-11-12,Recarga celular,10000,3,nequi
+104,2024-11-15,Snack dulce,1500,1,efectivo
+105,2024-11-17,  Bus al centro  ,2500,4,efectivo
+106,2024-11-20,Tinto en la esquina,1500,1,efectivo
+107,2024-11-22,Almuerzo corriente,12000,2,Efectivo
+108,2024-11-25,Gaseosa en la tienda,-300,1,efectivo
+109,2024-11-28,Bus intermunicipal,8000,4,efectivo
+110,2024-12-01,Recarga celular,10000,3,NEQUI
+111,2024-12-03,Tinto doble,3000,1,efectivo
+112,2024-12-05,Almuerzo corriente,12000,2,efectivo
+113,2024-12-08,Paquete de papitas,2000,1,efectivo
+114,2024-12-10,Bus al centro,2500,4,tarjeta
+115,2024-12-12,Snack dulce,1500,1,efectivo
+116,2024-12-15,Tinto en la esquina,1500,1,efectivo
+117,2024-12-17,,2500,4,
+118,2024-12-20,Almuerzo corriente,13000,2,efectivo
+119,2024-12-22,Recarga celular,10000,3,nequi
+120,2024-12-25,Gaseosa en la tienda,1800,1,EFECTIVO

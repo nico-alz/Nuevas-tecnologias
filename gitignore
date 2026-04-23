@@ -1,0 +1,21 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Datos procesados (se regeneran al correr main.py)
+data/procesados/
+
+# IDEs
+.vscode/
+.idea/

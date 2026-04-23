@@ -1,0 +1,6 @@
+id_categoria,nombre_categoria,tipo
+1,antojos,variable
+2,alimentacion,variable
+3,celular,fijo
+4,transporte,variable
+5,entretenimiento,variable
